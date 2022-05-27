@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Max-RiskHarbor
-- 👀 I’m interested in Game Theory, Mechanism Design and DeFI
-- 🌱 I’m currently taking Advanced Cryptography, Functional Analysis, and Advanced Game Theory
+
 
 
 <!---
